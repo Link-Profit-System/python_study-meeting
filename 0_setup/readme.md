@@ -16,7 +16,7 @@
    3-1. [2. pythonのダウンロード](#2-pythonのダウンロード)でダウンロードしたインストーラを実行  
    3-2. 「Add Python 3.9 to PATH」にチェックをつけて「Customize installation」を押下  
 ![Pythonインストール-1](img/3-1.png)  
-   3-3. 「Next」を押下
+   3-3. 「Next」を押下  
 ![Pythonインストール-2](img/3-2.png)  
    3-4. 「Add Python to environment variables」にチェックをつけて「Next」を押下  
 ![Pythonインストール-3](img/3-3.png)  
